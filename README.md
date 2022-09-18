@@ -6,10 +6,9 @@
 
 - 👨‍💻 I’m currently working as **Intern at Creative Capsule**
 
+- 🌱 I’m currently learning **React JS, Nest JS**.
+
 - 📝 My Blog Page😁 **:** [https://mayurwritings.wordpress.com/](https://mayurwritings.wordpress.com/)✍
-
-- 🌱 I’m currently learning **React JS, Nest JS**
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
