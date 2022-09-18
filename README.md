@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Nest JS**.
 
-- 📝 My Personal Blog Page😁 **:**  <a href="[https://mayurwritings.wordpress.com/](https://mayurwritings.wordpress.com/)✍" ><img  src=https://e7.pngegg.com/pngimages/359/247/png-clipart-website-development-wordpress-computer-icons-blog-computer-file-wordpress-blue-text-thumbnail.png alt="Worpress" height="30" /> 
+- 📝 My Personal Blog Page😁 **:**  <a href="[https://mayurwritings.wordpress.com/](https://mayurwritings.wordpress.com/)✍" target="_blank"><img  src=https://e7.pngegg.com/pngimages/359/247/png-clipart-website-development-wordpress-computer-icons-blog-computer-file-wordpress-blue-text-thumbnail.png alt="Worpress" height="30" /> 
 </a>
 
 <h3 align="left">Connect with me:</h3>
