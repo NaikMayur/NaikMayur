@@ -24,8 +24,9 @@
 </a>  
 </div>  
 <br/><br/>
-<div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naikmayur&show_icons=true&locale=en&layout=compact" alt="naikmayur" /></p>
+<div align="left">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naikmayur&show_icons=true&locale=en&layout=compact" alt="naikmayur" /></p></div>
+<div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=naikmayur&show_icons=true&locale=en" alt="naikmayur" /></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </div>
