@@ -27,8 +27,8 @@
 <div align="left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naikmayur&show_icons=true&locale=en&layout=compact" alt="naikmayur" /></p></div>
 <div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=naikmayur&show_icons=true&locale=en" alt="naikmayur" /></p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=naikmayur&show_icons=true&locale=en" alt="naikmayur" /></p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> -->
 </div>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
