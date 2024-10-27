@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Naik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikmayur&label=Profile%20views&color=0e75b6&style=flat" alt="naikmayur" /> </p>
 
-- 👨‍💻 I’m currently working as **Intern at Creative Capsule**
-
-- 🌱 I’m currently learning **React JS, Nest JS**.
+- 👨‍💻 I’m currently working as **Jr. Fullstack developer at Wafer Technologies**
 
 - 📝 My Personal Blog Page😁 **:**  <a href="https://mayurwritings.wordpress.com/" target="_blank"><img  src=https://e7.pngegg.com/pngimages/359/247/png-clipart-website-development-wordpress-computer-icons-blog-computer-file-wordpress-blue-text-thumbnail.png alt="Worpress" height="30" /> 
 </a>✍
